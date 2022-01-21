@@ -5,6 +5,12 @@
 //  Created by Elizabeth Yu on 2022/01/21.
 //
 
+//
+//  NavigationPage.swift
+//  Project1
+//
+//  Created by Elizabeth Yu on 2022/01/21.
+//
 import SwiftUI
 
 struct NavigationPage: View {
@@ -27,11 +33,10 @@ struct NavigationPage: View {
         }
         .frame(maxWidth:.infinity,maxHeight: .infinity)
         .onTapGesture {
-            print("YES")
+            print("\(self.tapCount)")
             self.tapCount += 1
         }
         .background(backgroundColor[tapCount % backgroundColor.count])
             
     }
 }
-

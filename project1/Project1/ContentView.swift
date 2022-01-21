@@ -4,7 +4,6 @@
 //
 //  Created by Elizabeth Yu on 2022/01/21.
 //
-
 import SwiftUI
 
 struct orangeVStack:View{
@@ -34,7 +33,7 @@ struct orangeVStack:View{
 
 struct ContentView: View {
     
-    @State private var isActivated : Bool = false
+    @State private var isActivated : Bool = true
     
     var body: some View {
         
@@ -49,10 +48,10 @@ struct ContentView: View {
                 .padding(self.isActivated ? 10: 35)
                 .background(self.isActivated ? Color.black: Color.red)
                 .onTapGesture {
-                    print("Taped Item is \(self.isActivated)")
                     withAnimation{
                         self.isActivated.toggle()
                     }
+                    print("Tapped Item is \(self.isActivated)")
                 }
                 
                 NavigationLink(destination: NavigationPage(isActivated: $isActivated)) {
@@ -83,6 +82,3 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
-
-
-
