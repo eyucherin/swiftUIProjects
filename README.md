@@ -1,7 +1,7 @@
 # swiftUIProjects
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/66363530/150640874-0a026874-9f71-42fc-9e41-8cc0e71552d6.png" width="850" height="370" border="10"/>
+<img src="https://user-images.githubusercontent.com/66363530/150640913-ed8012ca-cce3-40c6-b6ad-ce150a6c3792.jpeg" width="850" height="370" border="10"/>
 </p>
 
 # Project 1 
