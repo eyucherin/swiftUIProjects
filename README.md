@@ -22,9 +22,6 @@ ___
 
 ![](https://img.shields.io/badge/Xcode-13.2-%231575F9) ![](https://img.shields.io/badge/Swift-5.2.4-%23FA7343)
 
-
-https://github.com/eyucherin/swiftUIProjects/tree/main/Project2
-
 * Learned to use ZStack,VStack HStack, Image,Image properties, Shapes and different ways to implement webView. 
 * More information regarding Project2 [here](https://github.com/eyucherin/swiftUIProjects/tree/main/Project2)
 
