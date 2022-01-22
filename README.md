@@ -1,5 +1,9 @@
 # swiftUIProjects
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66363530/150640874-0a026874-9f71-42fc-9e41-8cc0e71552d6.png" width="850" height="370" border="10"/>
+</p>
+
 # Project 1 
 
 ![](https://img.shields.io/badge/Xcode-13.2-%231575F9) ![](https://img.shields.io/badge/Swift-5.2.4-%23FA7343)
