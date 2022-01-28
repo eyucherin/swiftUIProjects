@@ -29,4 +29,18 @@ ___
 <img src="https://user-images.githubusercontent.com/66363530/150640238-60601939-da4a-4ed4-9f22-68872f1c3f55.gif" width="220" height="450" border="10"/>
 </p>
 
+___
+
+# Project 3
+
+![](https://img.shields.io/badge/Xcode-13.2-%231575F9) ![](https://img.shields.io/badge/Swift-5.2.4-%23FA7343)
+
+* Learned to use Alert, Buttons, EditButton(onDelete,onMove),Form,List, @Environment Variables, and lazyVGrids.
+* More information regarding Project3 [here](https://github.com/eyucherin/swiftUIProjects/tree/main/Project2)
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/66363530/151584522-af8d50bc-c38e-43b8-94de-2693fcf1ca5f.gif" width="220" height="450" border="10"/>
+</p>
+
+
 
