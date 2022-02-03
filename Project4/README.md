@@ -72,7 +72,7 @@ task.resume()
 
 ## 4. Creating a Search Text 
 
-* SwiftUI’s searchable() modifier lets us place a search bar directly into a NavigationView, w 
+* SwiftUI’s searchable() modifier lets us place a search bar directly into a NavigationView. 
 * if you want users to be able to tap to complete their search use the searchCompletion() modifier for each suggestion.
 
 ```Swift
