@@ -42,5 +42,18 @@ ___
 <img src="https://user-images.githubusercontent.com/66363530/151584522-af8d50bc-c38e-43b8-94de-2693fcf1ca5f.gif" width="220" height="450" border="10"/>
 </p>
 
+___
+
+# Project 3
+
+![](https://img.shields.io/badge/Xcode-13.2-%231575F9) ![](https://img.shields.io/badge/Swift-5.2.4-%23FA7343)
+
+* Learned to make an API call,fetch data from API, MVVM design pattern, create a search Text. 
+* Punk API: https://punkapi.com/documentation/v2 
+* More information regarding Project3 [here](https://github.com/eyucherin/swiftUIProjects/tree/main/Project3)
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/66363530/152369661-482975ef-b9f0-40da-a652-9b4c3e175099.gif" width="220" height="450" border="10"/>
+</p>
 
 
