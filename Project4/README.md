@@ -70,9 +70,43 @@ task.resume()
 * View Model:The buissness logic. One thing to remember about the view is that it is not responsible for maintaining its state. Instead, it will synchronize this with the viewmodel
 
 
-##4. Creating a Search Text 
+## 4. Creating a Search Text 
 
+* SwiftUI’s searchable() modifier lets us place a search bar directly into a NavigationView, w 
+* if you want users to be able to tap to complete their search use the searchCompletion() modifier for each suggestion.
 
+```Swift
+struct ContentView: View {
+    let names = ["Holly", "Josh", "Rhonda", "Ted"]
+    @State private var searchText = ""
+
+    var body: some View {
+        NavigationView {
+            List {
+                ForEach(searchResults, id: \.self) { name in
+                    NavigationLink(destination: Text(name)) {
+                        Text(name)
+                    }
+                }
+            }
+            .searchable(text: $searchText) {
+                ForEach(searchResults, id: \.self) { result in
+                    Text("Are you looking for \(result)?").searchCompletion(result)
+                }
+            }
+            .navigationTitle("Contacts")
+        }
+    }
+
+    var searchResults: [String] {
+        if searchText.isEmpty {
+            return names
+        } else {
+            return names.filter { $0.contains(searchText) }
+        }
+    }
+}
+```
 
 
 
