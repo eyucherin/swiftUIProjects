@@ -56,4 +56,18 @@ ___
 <img src="https://user-images.githubusercontent.com/66363530/152369661-482975ef-b9f0-40da-a652-9b4c3e175099.gif" width="220" height="450" border="10"/>
 </p>
 
+___
+
+# Project 5
+
+![](https://img.shields.io/badge/Xcode-13.2-%231575F9) ![](https://img.shields.io/badge/Swift-5.2.4-%23FA7343)
+
+* learned to create a tab view from scratch, functional programming, geometry reader, and using enumerations 
+* More information regarding Project4 [here](https://github.com/eyucherin/swiftUIProjects/tree/main/Project4)
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/66363530/153877891-750d93ff-b9f7-482d-ab17-c383bbc1442e.gif" width="220" height="450" border="10"/>
+</p>
+
+
 
