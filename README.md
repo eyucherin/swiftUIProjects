@@ -63,10 +63,25 @@ ___
 ![](https://img.shields.io/badge/Xcode-13.2-%231575F9) ![](https://img.shields.io/badge/Swift-5.2.4-%23FA7343)
 
 * learned to create a tab view from scratch, functional programming, geometry reader, and using enumerations 
-* More information regarding Project4 [here](https://github.com/eyucherin/swiftUIProjects/tree/main/Project4)
+* More information regarding Project5 [here](https://github.com/eyucherin/swiftUIProjects/tree/main/project5)
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/66363530/153877891-750d93ff-b9f7-482d-ab17-c383bbc1442e.gif" width="220" height="450" border="10"/>
+</p>
+
+___
+
+# Project 6
+
+![](https://img.shields.io/badge/Xcode-13.2-%231575F9) ![](https://img.shields.io/badge/Swift-5.2.4-%23FA7343)
+
+* With the help of Standford's 193p IOS development class, learned to create a card matching game 
+* Standfor 193p : https://cs193p.sites.stanford.edu
+* Leanrned how to use property layouts,protocols, generics, animations, closures, properties, extehsions, @ViewBuilder, @escaping, ViewModifiers, Implicit and explicit animations, transitions, Animatible Modifiers with animatiableData, and matchedGeometrey effect.
+* More information regarding Project6 [here](https://github.com/eyucherin/swiftUIProjects/tree/main/Project6%20)
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/66363530/153896167-64fe749f-b9d9-47e6-be7f-344ab8a4c0e6.gif" width="220" height="450" border="10"/>
 </p>
 
 
