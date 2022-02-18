@@ -83,7 +83,7 @@ struct ContentView: View {
                                         .foregroundColor(.white)
                                 )
                             
-                        } // 메뉴
+                        } 
                     })
                 }) // toolbar
                 .alert(isPresented: $shouldShowAlert, content: {
