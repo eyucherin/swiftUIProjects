@@ -47,7 +47,7 @@ struct ContentView: View {
                                 Label("Alert 2" , systemImage: "bell.fill")
                             }
                             
-                            Section {
+                            Menu("Empty Tasks") {
                                 Button {
                                 } label : {
                                     Label("Empty Task1" , systemImage: "rectangle.and.pencil.and.ellipsis")
@@ -83,7 +83,7 @@ struct ContentView: View {
                                         .foregroundColor(.white)
                                 )
                             
-                        } 
+                        }
                     })
                 }) // toolbar
                 .alert(isPresented: $shouldShowAlert, content: {
