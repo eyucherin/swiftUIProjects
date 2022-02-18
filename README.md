@@ -90,7 +90,7 @@ ___
 
 ![](https://img.shields.io/badge/Xcode-13.2-%231575F9) ![](https://img.shields.io/badge/Swift-5.2.4-%23FA7343)
 * Learned how to use menu , picker, and multitrailing closures. 
-* More information regarding Project7 [here](https://github.com/eyucherin/swiftUIProjects/tree/main/Project6%20)
+* More information regarding Project7 [here](https://github.com/eyucherin/swiftUIProjects/tree/main/Project7)
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/66363530/154680358-6867d458-b38f-4812-890f-a6506ec8533d.gif" width="220" height="450" border="10"/>
