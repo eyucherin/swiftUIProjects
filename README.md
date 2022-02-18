@@ -84,5 +84,20 @@ ___
 <img src="https://user-images.githubusercontent.com/66363530/153896167-64fe749f-b9d9-47e6-be7f-344ab8a4c0e6.gif" width="220" height="450" border="10"/>
 </p>
 
+___
+
+# Project 7
+
+![](https://img.shields.io/badge/Xcode-13.2-%231575F9) ![](https://img.shields.io/badge/Swift-5.2.4-%23FA7343)
+
+* Learned how to use menu , picker, and multitrailing closures. 
+* Standfor 193p : https://cs193p.sites.stanford.edu
+* Leanrned how to use property layouts,protocols, generics, animations, closures, properties, extehsions, @ViewBuilder, @escaping, ViewModifiers, Implicit and explicit animations, transitions, Animatible Modifiers with animatiableData, and matchedGeometrey effect.
+* More information regarding Project6 [here](https://github.com/eyucherin/swiftUIProjects/tree/main/Project6%20)
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/66363530/153896167-64fe749f-b9d9-47e6-be7f-344ab8a4c0e6.gif" width="220" height="450" border="10"/>
+</p>
+
 
 
